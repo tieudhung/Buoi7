@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Bai 1-server\Bai 3\bin\Debug\Bai 3.exe.config
+C:\Users\User\Desktop\Bai 1-server\Bai 3\bin\Debug\Bai 3.exe
+C:\Users\User\Desktop\Bai 1-server\Bai 3\bin\Debug\Bai 3.pdb
+C:\Users\User\Desktop\Bai 1-server\Bai 3\obj\Debug\Bai 3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Bai 1-server\Bai 3\obj\Debug\Bai 3.exe
+C:\Users\User\Desktop\Bai 1-server\Bai 3\obj\Debug\Bai 3.pdb
